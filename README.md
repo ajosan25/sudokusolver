@@ -1,2 +1,1 @@
-# sudokusolver
-Beating Dr. Kaminsky
+
